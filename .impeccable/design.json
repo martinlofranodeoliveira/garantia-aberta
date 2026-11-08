@@ -1,0 +1,408 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-08T08:00:16Z",
+  "title": "Design System: Garantia Aberta",
+  "extensions": {
+    "colorMeta": {
+      "ink": {
+        "role": "neutral",
+        "displayName": "Tinta azulada",
+        "tonalRamp": [
+          "oklch(15% 0.0275 259.96)",
+          "oklch(26% 0.0275 259.96)",
+          "oklch(38% 0.0275 259.96)",
+          "oklch(49% 0.0275 259.96)",
+          "oklch(61% 0.0275 259.96)",
+          "oklch(72% 0.0275 259.96)",
+          "oklch(84% 0.0275 259.96)",
+          "oklch(95% 0.0275 259.96)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Cinza de apoio",
+        "tonalRamp": [
+          "oklch(15% 0.0250 259.18)",
+          "oklch(26% 0.0250 259.18)",
+          "oklch(38% 0.0250 259.18)",
+          "oklch(49% 0.0250 259.18)",
+          "oklch(61% 0.0250 259.18)",
+          "oklch(72% 0.0250 259.18)",
+          "oklch(84% 0.0250 259.18)",
+          "oklch(95% 0.0250 259.18)"
+        ]
+      },
+      "accent": {
+        "role": "primary",
+        "displayName": "Rosa LOFRANO",
+        "tonalRamp": [
+          "oklch(15% 0.1866 0.76)",
+          "oklch(26% 0.1866 0.76)",
+          "oklch(38% 0.1866 0.76)",
+          "oklch(49% 0.1866 0.76)",
+          "oklch(61% 0.1866 0.76)",
+          "oklch(72% 0.1866 0.76)",
+          "oklch(84% 0.1866 0.76)",
+          "oklch(95% 0.1866 0.76)"
+        ]
+      },
+      "accent-hover": {
+        "role": "primary",
+        "displayName": "Rosa profundo",
+        "tonalRamp": [
+          "oklch(15% 0.1581 0.29)",
+          "oklch(26% 0.1581 0.29)",
+          "oklch(38% 0.1581 0.29)",
+          "oklch(49% 0.1581 0.29)",
+          "oklch(61% 0.1581 0.29)",
+          "oklch(72% 0.1581 0.29)",
+          "oklch(84% 0.1581 0.29)",
+          "oklch(95% 0.1581 0.29)"
+        ]
+      },
+      "canvas": {
+        "role": "neutral",
+        "displayName": "Plano frio",
+        "tonalRamp": [
+          "oklch(15% 0.0058 264.53)",
+          "oklch(26% 0.0058 264.53)",
+          "oklch(38% 0.0058 264.53)",
+          "oklch(49% 0.0058 264.53)",
+          "oklch(61% 0.0058 264.53)",
+          "oklch(72% 0.0058 264.53)",
+          "oklch(84% 0.0058 264.53)",
+          "oklch(95% 0.0058 264.53)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Papel branco",
+        "tonalRamp": [
+          "oklch(15% 0.0000 0.00)",
+          "oklch(26% 0.0000 0.00)",
+          "oklch(38% 0.0000 0.00)",
+          "oklch(49% 0.0000 0.00)",
+          "oklch(61% 0.0000 0.00)",
+          "oklch(72% 0.0000 0.00)",
+          "oklch(84% 0.0000 0.00)",
+          "oklch(95% 0.0000 0.00)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Linha fria",
+        "tonalRamp": [
+          "oklch(15% 0.0122 259.82)",
+          "oklch(26% 0.0122 259.82)",
+          "oklch(38% 0.0122 259.82)",
+          "oklch(49% 0.0122 259.82)",
+          "oklch(61% 0.0122 259.82)",
+          "oklch(72% 0.0122 259.82)",
+          "oklch(84% 0.0122 259.82)",
+          "oklch(95% 0.0122 259.82)"
+        ]
+      },
+      "control-line": {
+        "role": "neutral",
+        "displayName": "Linha de campo",
+        "tonalRamp": [
+          "oklch(15% 0.0195 255.55)",
+          "oklch(26% 0.0195 255.55)",
+          "oklch(38% 0.0195 255.55)",
+          "oklch(49% 0.0195 255.55)",
+          "oklch(61% 0.0195 255.55)",
+          "oklch(72% 0.0195 255.55)",
+          "oklch(84% 0.0195 255.55)",
+          "oklch(95% 0.0195 255.55)"
+        ]
+      },
+      "secondary-line": {
+        "role": "neutral",
+        "displayName": "Linha secundária",
+        "tonalRamp": [
+          "oklch(15% 0.0158 257.20)",
+          "oklch(26% 0.0158 257.20)",
+          "oklch(38% 0.0158 257.20)",
+          "oklch(49% 0.0158 257.20)",
+          "oklch(61% 0.0158 257.20)",
+          "oklch(72% 0.0158 257.20)",
+          "oklch(84% 0.0158 257.20)",
+          "oklch(95% 0.0158 257.20)"
+        ]
+      },
+      "section-line": {
+        "role": "neutral",
+        "displayName": "Linha de seção",
+        "tonalRamp": [
+          "oklch(15% 0.0196 255.55)",
+          "oklch(26% 0.0196 255.55)",
+          "oklch(38% 0.0196 255.55)",
+          "oklch(49% 0.0196 255.55)",
+          "oklch(61% 0.0196 255.55)",
+          "oklch(72% 0.0196 255.55)",
+          "oklch(84% 0.0196 255.55)",
+          "oklch(95% 0.0196 255.55)"
+        ]
+      },
+      "frame": {
+        "role": "neutral",
+        "displayName": "Azul da moldura",
+        "tonalRamp": [
+          "oklch(15% 0.0283 257.53)",
+          "oklch(26% 0.0283 257.53)",
+          "oklch(38% 0.0283 257.53)",
+          "oklch(49% 0.0283 257.53)",
+          "oklch(61% 0.0283 257.53)",
+          "oklch(72% 0.0283 257.53)",
+          "oklch(84% 0.0283 257.53)",
+          "oklch(95% 0.0283 257.53)"
+        ]
+      },
+      "focus": {
+        "role": "primary",
+        "displayName": "Rosa de foco",
+        "tonalRamp": [
+          "oklch(15% 0.1665 353.64)",
+          "oklch(26% 0.1665 353.64)",
+          "oklch(38% 0.1665 353.64)",
+          "oklch(49% 0.1665 353.64)",
+          "oklch(61% 0.1665 353.64)",
+          "oklch(72% 0.1665 353.64)",
+          "oklch(84% 0.1665 353.64)",
+          "oklch(95% 0.1665 353.64)"
+        ]
+      },
+      "danger": {
+        "role": "semantic",
+        "displayName": "Vermelho de correção",
+        "tonalRamp": [
+          "oklch(15% 0.1695 17.57)",
+          "oklch(26% 0.1695 17.57)",
+          "oklch(38% 0.1695 17.57)",
+          "oklch(49% 0.1695 17.57)",
+          "oklch(61% 0.1695 17.57)",
+          "oklch(72% 0.1695 17.57)",
+          "oklch(84% 0.1695 17.57)",
+          "oklch(95% 0.1695 17.57)"
+        ]
+      },
+      "success": {
+        "role": "semantic",
+        "displayName": "Verde de acompanhamento",
+        "tonalRamp": [
+          "oklch(15% 0.0749 161.71)",
+          "oklch(26% 0.0749 161.71)",
+          "oklch(38% 0.0749 161.71)",
+          "oklch(49% 0.0749 161.71)",
+          "oklch(61% 0.0749 161.71)",
+          "oklch(72% 0.0749 161.71)",
+          "oklch(84% 0.0749 161.71)",
+          "oklch(95% 0.0749 161.71)"
+        ]
+      },
+      "status-neutral": {
+        "role": "neutral",
+        "displayName": "Plano de estado neutro",
+        "tonalRamp": [
+          "oklch(15% 0.0063 255.48)",
+          "oklch(26% 0.0063 255.48)",
+          "oklch(38% 0.0063 255.48)",
+          "oklch(49% 0.0063 255.48)",
+          "oklch(61% 0.0063 255.48)",
+          "oklch(72% 0.0063 255.48)",
+          "oklch(84% 0.0063 255.48)",
+          "oklch(95% 0.0063 255.48)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "headline": {
+        "displayName": "Abertura",
+        "purpose": "Título principal da aplicação; escala menor em telas intermediárias e móveis."
+      },
+      "title": {
+        "displayName": "Título de área",
+        "purpose": "Identifica a superfície ativa."
+      },
+      "section": {
+        "displayName": "Seção",
+        "purpose": "Agrupa documentos, cuidados e painéis."
+      },
+      "card-title": {
+        "displayName": "Nome do bem",
+        "purpose": "Primeiro nível de leitura da ficha de inventário."
+      },
+      "body": {
+        "displayName": "Texto base",
+        "purpose": "Texto corrente da interface."
+      },
+      "label": {
+        "displayName": "Rótulo",
+        "purpose": "Nome visível de cada campo."
+      },
+      "field": {
+        "displayName": "Valor de campo",
+        "purpose": "Texto digitado ou selecionado; aumenta para 16px no móvel."
+      },
+      "action": {
+        "displayName": "Ação",
+        "purpose": "Texto dos botões com contorno ou fundo."
+      },
+      "metadata": {
+        "displayName": "Metadado",
+        "purpose": "Contagens, datas de referência e informações auxiliares."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "state-transition",
+        "value": "background-color .16s ease-out, color .16s ease-out, border-color .16s ease-out",
+        "purpose": "Resposta de estado em botões e links; sem deslocamento."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "@media(prefers-reduced-motion:reduce){*,*:before,*:after{transition:none!important}}",
+        "purpose": "Remove transições quando a pessoa prefere movimento reduzido."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "intermediate",
+        "value": "1050px"
+      },
+      {
+        "name": "mobile",
+        "value": "700px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Botão principal",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Cadastrar bem",
+      "html": "<button class=\"ds-button-primary\" type=\"button\">Cadastrar bem</button>",
+      "css": ".ds-button-primary{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:42px;border:1px solid transparent;border-radius:7px;padding:10px 14px;font-size:12px;font-weight:700;line-height:1.3;white-space:nowrap;cursor:pointer;transition:background-color .16s ease-out,color .16s ease-out,border-color .16s ease-out;font-family:Lato,Arial,sans-serif;background:var(--accent,#ae185c);color:var(--paper,#fff);}.ds-button-primary:hover{background:var(--accent-hover,#8c134a)}.ds-button-primary:focus-visible{outline:3px solid var(--focus,#b23975);outline-offset:3px}.ds-button-primary:disabled{opacity:.55;cursor:not-allowed}@media(prefers-reduced-motion:reduce){.ds-button-primary{transition:none}}"
+    },
+    {
+      "name": "Botão secundário",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Editar dados",
+      "html": "<button class=\"ds-button-secondary\" type=\"button\">Editar dados</button>",
+      "css": ".ds-button-secondary{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:42px;border:1px solid transparent;border-radius:7px;padding:10px 14px;font-size:12px;font-weight:700;line-height:1.3;white-space:nowrap;cursor:pointer;transition:background-color .16s ease-out,color .16s ease-out,border-color .16s ease-out;font-family:Lato,Arial,sans-serif;background:var(--paper,#fff);color:var(--ink,#19212e);border-color:#cbd2dc;}.ds-button-secondary:hover{background:#f7edf2;border-color:#bc8ba3}.ds-button-secondary:focus-visible{outline:3px solid var(--focus,#b23975);outline-offset:3px}.ds-button-secondary:disabled{opacity:.55;cursor:not-allowed}@media(prefers-reduced-motion:reduce){.ds-button-secondary{transition:none}}"
+    },
+    {
+      "name": "Pedido de remoção",
+      "kind": "button",
+      "refersTo": "button-quiet-danger",
+      "description": "Remover bem",
+      "html": "<button class=\"ds-button-quiet-danger\" type=\"button\">Remover bem</button>",
+      "css": ".ds-button-quiet-danger{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:42px;border:1px solid transparent;border-radius:7px;padding:10px 14px;font-size:12px;font-weight:700;line-height:1.3;white-space:nowrap;cursor:pointer;transition:background-color .16s ease-out,color .16s ease-out,border-color .16s ease-out;font-family:Lato,Arial,sans-serif;background:transparent;color:var(--danger,#a51d36);border-color:#dcb2bc;}.ds-button-quiet-danger:hover{background:#fff0f3}.ds-button-quiet-danger:focus-visible{outline:3px solid var(--focus,#b23975);outline-offset:3px}.ds-button-quiet-danger:disabled{opacity:.55;cursor:not-allowed}@media(prefers-reduced-motion:reduce){.ds-button-quiet-danger{transition:none}}"
+    },
+    {
+      "name": "Confirmação destrutiva",
+      "kind": "button",
+      "refersTo": "button-danger",
+      "description": "Confirmar remoção",
+      "html": "<button class=\"ds-button-danger\" type=\"button\">Confirmar remoção</button>",
+      "css": ".ds-button-danger{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:42px;border:1px solid transparent;border-radius:7px;padding:10px 14px;font-size:12px;font-weight:700;line-height:1.3;white-space:nowrap;cursor:pointer;transition:background-color .16s ease-out,color .16s ease-out,border-color .16s ease-out;font-family:Lato,Arial,sans-serif;background:var(--danger,#a51d36);color:var(--paper,#fff);}.ds-button-danger:hover{background:#81152a}.ds-button-danger:focus-visible{outline:3px solid var(--focus,#b23975);outline-offset:3px}.ds-button-danger:disabled{opacity:.55;cursor:not-allowed}@media(prefers-reduced-motion:reduce){.ds-button-danger{transition:none}}"
+    },
+    {
+      "name": "Ação textual",
+      "kind": "button",
+      "refersTo": "button-text",
+      "description": "Ação secundária no contexto de uma mensagem ou registro.",
+      "html": "<button class=\"ds-button-text\" type=\"button\">Desfazer última alteração</button>",
+      "css": ".ds-button-text{border:0;background:none;padding:6px 0;color:var(--accent,#ae185c);text-decoration:underline;text-underline-offset:3px;font-size:12px;font-weight:400;line-height:1.5;cursor:pointer;transition:background-color .16s ease-out,color .16s ease-out,border-color .16s ease-out;font-family:Lato,Arial,sans-serif;}.ds-button-text:hover{color:var(--accent-hover,#8c134a)}.ds-button-text:focus-visible{outline:3px solid var(--focus,#b23975);outline-offset:3px}@media(prefers-reduced-motion:reduce){.ds-button-text{transition:none}}"
+    },
+    {
+      "name": "Campo de texto",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "Rótulo visível, entrada com borda e mensagem associada quando inválida.",
+      "html": "<label class=\"ds-field\" for=\"ds-asset-name\">Nome do bem<input id=\"ds-asset-name\" placeholder=\"Ex.: Máquina de lavar\" required><span class=\"ds-field-error\" id=\"ds-name-error\"></span></label>",
+      "css": ".ds-field{display:flex;flex-direction:column;gap:6px;font-size:12px;font-weight:700;line-height:1.5;color:var(--ink,#19212e);min-width:0;font-family:Lato,Arial,sans-serif;}.ds-field input{background:var(--paper,#fff);border:1px solid #c1cad6;border-radius:6px;min-height:42px;padding:10px 11px;font:400 14px/1.5 Lato,Arial,sans-serif;color:var(--ink,#19212e);min-width:0;caret-color:var(--accent,#ae185c)}.ds-field input::placeholder{color:var(--muted,#5b6472);opacity:1}.ds-field input:focus{border-color:var(--accent,#ae185c)}.ds-field input:focus-visible{outline:3px solid var(--focus,#b23975);outline-offset:3px}.ds-field input[aria-invalid=true]{border-color:var(--danger,#a51d36);background:#fff7f9}.ds-field-error{font-size:11px;font-weight:400;color:var(--danger,#a51d36)}.ds-field-error:empty{display:none}.ds-field input:disabled{opacity:.55;cursor:not-allowed}@media(max-width:700px){.ds-field{font-size:11px}.ds-field input{font-size:16px}}"
+    },
+    {
+      "name": "Navegação de áreas",
+      "kind": "nav",
+      "refersTo": "navigation",
+      "description": "Seleção textual com linha inferior rosa e aria-current.",
+      "html": "<nav class=\"ds-navigation\" aria-label=\"Áreas do inventário\"><button aria-current=\"page\" type=\"button\">Bens</button><button type=\"button\">Agenda</button><button type=\"button\">Backup e dados</button></nav>",
+      "css": ".ds-navigation{display:flex;gap:24px;border-bottom:1px solid #bcc5d1}.ds-navigation button{border:0;border-bottom:3px solid transparent;background:none;padding:14px 0;color:var(--muted,#5b6472);font:700 14px/1.5 Lato,Arial,sans-serif;cursor:pointer;transition:background-color .16s ease-out,color .16s ease-out,border-color .16s ease-out}.ds-navigation button:hover{color:var(--ink,#19212e)}.ds-navigation button[aria-current=page]{color:var(--accent,#ae185c);border-bottom-color:var(--accent,#ae185c)}.ds-navigation button:focus-visible{outline:3px solid var(--focus,#b23975);outline-offset:3px}@media(max-width:700px){.ds-navigation button{font-size:13px}}@media(prefers-reduced-motion:reduce){.ds-navigation button{transition:none}}"
+    },
+    {
+      "name": "Etiqueta de data",
+      "kind": "chip",
+      "refersTo": "date-status",
+      "description": "Estado relativo informativo, acompanhado das datas completas no registro.",
+      "html": "<div class=\"ds-date-examples\"><span class=\"ds-date-status\">Sem prazo cadastrado</span><span class=\"ds-date-status ds-date-past\">Há 2 dias</span><span class=\"ds-date-status ds-date-today\">Data de hoje</span><span class=\"ds-date-status ds-date-future\">Em 12 dias</span><span class=\"ds-date-status ds-date-future\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"m5 12 4 4L19 6\"/></svg>Concluída</span></div>",
+      "css": ".ds-date-examples{display:flex;gap:12px;flex-wrap:wrap}.ds-date-status{display:inline-flex;align-items:center;gap:6px;font:700 11px/1.5 Lato,Arial,sans-serif;color:var(--muted,#5b6472);border-radius:5px;background:#eef1f5;padding:5px 8px;max-width:100%;width:fit-content}.ds-date-past{color:#9b263e;background:#fff0f3}.ds-date-today{color:#7b3e12;background:#fff0df}.ds-date-future{color:var(--success,#286248);background:#eaf5ef}.ds-date-status svg{width:13px;height:13px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;flex:none}"
+    },
+    {
+      "name": "Ficha de inventário",
+      "kind": "card",
+      "refersTo": "asset-card",
+      "description": "Nome, categoria, prazo, próximos cuidados e acesso aos arquivos.",
+      "html": "<article class=\"ds-asset-card\"><h3><button type=\"button\" aria-label=\"Abrir ficha do bem de exemplo\">Bem de exemplo</button></h3><p class=\"ds-asset-category\">Casa</p><span class=\"ds-card-status\">Sem prazo cadastrado</span><dl class=\"ds-card-facts\"><div><dt>Término informado</dt><dd>Não informada</dd></div><div><dt>Próximo cuidado</dt><dd>Não informada</dd></div></dl><div class=\"ds-card-foot\"><span>0 arquivos</span><button type=\"button\" aria-label=\"Ver detalhes do bem de exemplo\">Abrir ficha<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 12h14m-5-5 5 5-5 5\"/></svg></button></div></article>",
+      "css": ".ds-asset-card{background:var(--paper,#fff);color:var(--ink,#19212e);border:1px solid var(--line,#d8dde5);border-radius:var(--radius,12px);padding:20px;min-width:0;display:flex;flex-direction:column;font-family:Lato,Arial,sans-serif;}.ds-asset-card h3{font-size:18px;line-height:1.3;margin:0 0 5px;overflow-wrap:anywhere}.ds-asset-card h3 button{border:0;padding:0;background:transparent;color:var(--ink,#19212e);font:inherit;text-align:left;text-decoration:underline;text-decoration-color:transparent;text-underline-offset:4px;cursor:pointer}.ds-asset-card h3 button:hover{color:var(--accent,#ae185c);text-decoration-color:currentColor}.ds-asset-card button:focus-visible{outline:3px solid var(--focus,#b23975);outline-offset:3px}.ds-asset-category{color:var(--muted,#5b6472);font-size:12px;line-height:1.5;margin:0 0 16px;overflow-wrap:anywhere}.ds-card-status{display:inline-flex;align-items:center;font-size:11px;line-height:1.5;font-weight:700;color:var(--muted,#5b6472);border-radius:5px;background:#eef1f5;padding:5px 8px;width:fit-content;margin-bottom:14px}.ds-card-facts{display:grid;gap:12px;margin:0 0 18px}.ds-card-facts>div{display:flex;align-items:baseline;justify-content:space-between;gap:14px;font-size:12px;line-height:1.5}.ds-card-facts dt{color:var(--muted,#5b6472)}.ds-card-facts dd{font-weight:700;margin:0;text-align:right;font-variant-numeric:tabular-nums}.ds-card-foot{display:flex;align-items:center;justify-content:space-between;gap:15px;padding-top:12px;border-top:1px solid var(--line,#d8dde5);margin-top:auto;font-size:11px;line-height:1.5;color:var(--muted,#5b6472)}.ds-card-foot button{display:flex;align-items:center;gap:6px;border:0;background:none;padding:6px 0;color:var(--accent,#ae185c);font:400 12px/1.5 Lato,Arial,sans-serif;cursor:pointer}.ds-card-foot button:hover{color:var(--accent-hover,#8c134a)}.ds-card-foot svg{width:14px;height:14px;fill:none;stroke:currentColor;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round;flex:none}.ds-asset-card button{transition:background-color .16s ease-out,color .16s ease-out,border-color .16s ease-out}@media(max-width:700px){.ds-asset-card{padding:22px}}@media(prefers-reduced-motion:reduce){.ds-asset-card button{transition:none}}"
+    },
+    {
+      "name": "Linha da agenda",
+      "kind": "custom",
+      "refersTo": "agenda-row",
+      "description": "Data, cuidado e acesso à ficha, com reordenação no móvel.",
+      "html": "<article class=\"ds-agenda-row\"><div class=\"ds-agenda-date\">15/11/2026</div><div><h3>Limpar o filtro</h3><p>Bem de exemplo</p></div><button type=\"button\">Abrir bem</button></article>",
+      "css": ".ds-agenda-row{display:grid;grid-template-columns:150px minmax(0,1fr) auto;gap:24px;padding:24px 0;border-bottom:1px solid #cbd2dc;align-items:start;color:var(--ink,#19212e);font-family:Lato,Arial,sans-serif;}.ds-agenda-date{font-size:14px;line-height:1.5;font-weight:700;font-variant-numeric:tabular-nums}.ds-agenda-row h3{font-size:16px;line-height:1.3;margin:0 0 6px}.ds-agenda-row p{font-size:13px;line-height:1.5;color:var(--muted,#5b6472);margin:0;overflow-wrap:anywhere}.ds-agenda-row button{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:42px;border:1px solid transparent;border-radius:7px;padding:10px 14px;font-size:12px;font-weight:700;line-height:1.3;white-space:nowrap;cursor:pointer;transition:background-color .16s ease-out,color .16s ease-out,border-color .16s ease-out;font-family:Lato,Arial,sans-serif;font-size:11px;min-height:36px;background:var(--paper,#fff);border-color:#cbd2dc;color:var(--ink,#19212e)}.ds-agenda-row button:hover{background:#f7edf2;border-color:#bc8ba3}.ds-agenda-row button:focus-visible{outline:3px solid var(--focus,#b23975);outline-offset:3px}@media(max-width:700px){.ds-agenda-row{grid-template-columns:95px minmax(0,1fr);gap:15px}.ds-agenda-date{font-size:12px}.ds-agenda-row h3{font-size:15px}.ds-agenda-row p{font-size:12px}.ds-agenda-row button{grid-column:2;justify-self:start}}@media(prefers-reduced-motion:reduce){.ds-agenda-row button{transition:none}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Arquivo de bens",
+    "overview": "O Arquivo de bens reúne informações que precisam ser reconhecidas, consultadas e conservadas. A linguagem é a de uma ferramenta de uso cotidiano: Lato local, superfícies brancas sobre um plano frio, contornos finos e rosa de ação. A autoria da LOFRANO TECNOLOGIA aparece na moldura escura sem competir com o conteúdo dos registros.\n\nA hierarquia nasce do nome, das datas e dos documentos de cada bem. Fichas, listas e formulários compartilham alinhamentos e uma escala compacta; as áreas de leitura têm respiro entre grupos. O sistema usa texto e SVGs funcionais de traço, com mudanças de estado que preservam a posição dos elementos.",
+    "keyCharacteristics": [
+      "Neutros frios, cabeçalho escuro e rosa reservado à ação e à seleção.",
+      "Uma família tipográfica, com pesos regular e negrito.",
+      "Superfícies planas delimitadas por bordas e divisórias.",
+      "Datas explícitas e estados acompanhados de texto."
+    ],
+    "rules": [
+      {
+        "name": "The Acento de Ação Rule",
+        "body": "Preserve os grandes planos de leitura em neutros; use o rosa para ação, seleção e foco de edição.",
+        "section": "colors"
+      },
+      {
+        "name": "The Estado por Extenso Rule",
+        "body": "Acompanhe cor e tratamento visual com texto que nomeie o estado, a data ou a correção necessária.",
+        "section": "colors"
+      },
+      {
+        "name": "The Datas para Conferência Rule",
+        "body": "Use algarismos tabulares nas datas das fichas e da agenda; alinhe os valores resumidos das fichas à direita para facilitar a comparação.",
+        "section": "typography"
+      },
+      {
+        "name": "The Planos sem Elevação Rule",
+        "body": "Distinga superfícies por fundo, contorno e espaçamento; preserve fichas e painéis planos em repouso e no hover.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do preservar Lato local e usar peso, tamanho e espaço para criar hierarquia.",
+      "Do manter rótulos visíveis, placeholders legíveis e foco de teclado destacado.",
+      "Do apresentar datas completas junto aos estados relativos e usar números tabulares nas áreas de conferência.",
+      "Do conservar textos de estado, erro e confirmação próximos do contexto a que pertencem.",
+      "Do adaptar grades, divisórias e grupos de ações à largura disponível."
+    ],
+    "donts": [
+      "Don't usar rosa como fundo extenso das áreas de leitura.",
+      "Don't elevar fichas com sombras ou deslocamentos no hover.",
+      "Don't comunicar prazo, conclusão, erro ou salvamento apenas pela cor.",
+      "Don't substituir rótulos de campo por placeholders ou ações textuais por ícones sem nome.",
+      "Don't acrescentar animação ornamental às trocas de área ou de estado."
+    ]
+  }
+}
